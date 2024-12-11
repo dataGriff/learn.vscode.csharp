@@ -1,1 +1,3 @@
 # learn.vscode.csharp
+
+[VS Code Csharp Beginner Playlist](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3hBUmY4d2J6NzZsVUNSR2J1WjFGdmdXVTMzd3xBQ3Jtc0tsdGs0bVdadUNsanZRWnI2STYzUG44a2RIenFHQnl1QmtvRk1OM1g4TGNDeHZITE9Ed3h4T1RVY2Vock1ndHRNUzhUakhZb29IcWxwY2dTTE5mZzlIRWpMWmFiaWRBRDMzRGFETlY1N2hYY2NZVkdBMA&q=https%3A%2F%2Faka.ms%2Fdotnet%2Fbeginnervideos%2Fyoutube%2Fvscode&v=HnP6pkE8Tjs)
